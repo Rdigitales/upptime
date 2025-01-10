@@ -184,17 +184,17 @@
     "url": "https://www.rdtest.com.ar:4433",
     "icon": "https://icons.duckduckgo.com/ip3/www.rdtest.com.ar.ico",
     "slug": "institucional-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2135,
-    "timeDay": 3481,
-    "timeWeek": 3352,
-    "timeMonth": 2348,
-    "timeYear": 2135,
+    "time": 2139,
+    "timeDay": 2547,
+    "timeWeek": 3251,
+    "timeMonth": 2351,
+    "timeYear": 2139,
     "dailyMinutesDown": {}
   }
 ]
