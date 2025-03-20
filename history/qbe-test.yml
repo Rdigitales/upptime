@@ -1,7 +1,7 @@
 url: https://qbe.rdtest.com.ar:4433
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-20T11:09:47.762Z
+status: up
+code: 200
+responseTime: 4352
+lastUpdated: 2025-03-20T12:14:39.704Z
 startTime: 2024-11-01T16:35:32.816Z
 generator: Upptime <https://github.com/upptime/upptime>
