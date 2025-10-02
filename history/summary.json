@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1619,
     "timeDay": 836,
-    "timeWeek": 1706,
+    "timeWeek": 1448,
     "timeMonth": 1338,
     "timeYear": 1619,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1712,
     "timeDay": 841,
-    "timeWeek": 2135,
+    "timeWeek": 1330,
     "timeMonth": 1523,
     "timeYear": 1712,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://ccweb.rdigitales.com.ar/Index.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ccweb.rdigitales.com.ar.ico",
     "slug": "cc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1616,
     "timeDay": 979,
-    "timeWeek": 1945,
+    "timeWeek": 1557,
     "timeMonth": 1454,
     "timeYear": 1616,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1583,
     "timeDay": 850,
-    "timeWeek": 1721,
+    "timeWeek": 1690,
     "timeMonth": 1355,
     "timeYear": 1583,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1802,
     "timeDay": 970,
-    "timeWeek": 2056,
+    "timeWeek": 1990,
     "timeMonth": 1589,
     "timeYear": 1802,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1590,
     "timeDay": 890,
-    "timeWeek": 2165,
+    "timeWeek": 1937,
     "timeMonth": 1499,
     "timeYear": 1590,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1775,
     "timeDay": 962,
-    "timeWeek": 2783,
+    "timeWeek": 1396,
     "timeMonth": 1809,
     "timeYear": 1775,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 1756,
     "timeDay": 979,
-    "timeWeek": 2915,
+    "timeWeek": 2455,
     "timeMonth": 1907,
     "timeYear": 1756,
     "dailyMinutesDown": {}
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 2196,
     "timeDay": 1254,
-    "timeWeek": 3145,
+    "timeWeek": 2782,
     "timeMonth": 2146,
     "timeYear": 2196,
     "dailyMinutesDown": {}
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 1808,
     "timeDay": 1018,
-    "timeWeek": 3188,
+    "timeWeek": 2361,
     "timeMonth": 1905,
     "timeYear": 1808,
     "dailyMinutesDown": {}
