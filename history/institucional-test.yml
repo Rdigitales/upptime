@@ -1,7 +1,7 @@
 url: https://www.rdtest.com.ar:4433
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-24T20:16:00.345Z
+status: up
+code: 200
+responseTime: 1935
+lastUpdated: 2025-10-24T20:28:37.639Z
 startTime: 2024-11-01T16:35:45.744Z
 generator: Upptime <https://github.com/upptime/upptime>
